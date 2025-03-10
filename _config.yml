@@ -22,14 +22,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profileimg.png"
   name             : "Tongtong Hong 洪通通"
   pronouns         : # example: "she/her"  
   bio              : "Korea University"
   location         : # "Earth"
   employer         : # "Red Brick University"
   uri              : # URL
-  email            : "tthtt314159@korea.ac.kr" 
+  email            : # "tthtt314159@korea.ac.kr" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
